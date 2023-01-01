@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import { fileURLToPath, URL } from 'url'
-=======
-import { fileURLToPath, URL } from 'node:url'
->>>>>>> origin/cacl
 
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
