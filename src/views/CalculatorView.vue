@@ -1,12 +1,11 @@
 <template>
-  <div class="max-w-max p-4 ld:px-0">
+  <div class="max-w-max p-4 lg:px-0">
     <div
       class="
         relative
-        w-full
-        max-w-[300px]
-        md:w-[300px]
+        mx-auto
         rounded-2xl
+        w-72
         shadow-xl shadow-neutral-400
         bg-white
         p-2
@@ -14,7 +13,6 @@
     >
       <div
         class="
-          w-full
           relative
           inset-0
           h-full
