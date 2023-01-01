@@ -29,7 +29,10 @@ i {
   place-content: center;
   width: 32px;
   height: 32px;
+<<<<<<< HEAD
 
+=======
+>>>>>>> c3c9485 (new installation with router and pinia)
   color: var(--color-text);
 }
 
