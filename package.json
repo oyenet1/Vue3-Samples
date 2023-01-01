@@ -7,14 +7,15 @@
     "preview": "vite preview --port 5050"
   },
   "dependencies": {
+    "@tailwindcss/forms": "^0.4.0",
     "vue": "^3.2.31",
-    "@tailwindcss/forms": "^0.4.0"
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.2",
-    "autoprefixer": "^10.4.2",
-    "postcss": "^8.4.5",
-    "tailwindcss": "^3.0.18",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4",
     "vite": "^2.8.4"
   }
 }
