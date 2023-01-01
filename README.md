@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 # bowofade
+=======
+# VueComponent
+>>>>>>> origin/cacl
 
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
+<<<<<<< HEAD
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+=======
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+>>>>>>> origin/cacl
 
 ## Customize configuration
 
@@ -27,6 +35,7 @@ npm run dev
 ```sh
 npm run build
 ```
+<<<<<<< HEAD
 
 ### Run Unit Tests with [Cypress Component Testing](https://docs.cypress.io/guides/component-testing/introduction)
 
@@ -40,3 +49,5 @@ npm run test:unit # or `npm run test:unit:ci` for headless testing
 npm run build
 npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 ```
+=======
+>>>>>>> origin/cacl

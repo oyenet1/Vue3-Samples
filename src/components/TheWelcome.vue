@@ -16,10 +16,14 @@ import SupportIcon from './icons/IconSupport.vue'
 
     Vue’s
 <<<<<<< HEAD
+<<<<<<< HEAD
     <a target="_blank" href="https://vuejs.org/">official documentation</a>
 =======
     <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
 >>>>>>> c3c9485 (new installation with router and pinia)
+=======
+    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
+>>>>>>> origin/cacl
     provides you with all information you need to get started.
   </WelcomeItem>
 
@@ -31,6 +35,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
     This project is served and bundled with
 <<<<<<< HEAD
+<<<<<<< HEAD
     <a href="https://vitejs.dev/guide/features.html" target="_blank">Vite</a>. The recommended IDE
     setup is <a href="https://code.visualstudio.com/" target="_blank">VSCode</a> +
     <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>. If you need to test
@@ -40,6 +45,8 @@ import SupportIcon from './icons/IconSupport.vue'
       >Cypress Component Testing</a
     >.
 =======
+=======
+>>>>>>> origin/cacl
     <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
     recommended IDE setup is
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
@@ -47,7 +54,10 @@ import SupportIcon from './icons/IconSupport.vue'
     you need to test your components and web pages, check out
     <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
     <a href="https://on.cypress.io/component" target="_blank">Cypress Component Testing</a>.
+<<<<<<< HEAD
 >>>>>>> c3c9485 (new installation with router and pinia)
+=======
+>>>>>>> origin/cacl
 
     <br />
 
@@ -62,6 +72,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
     Get official tools and libraries for your project:
 <<<<<<< HEAD
+<<<<<<< HEAD
     <a target="_blank" href="https://pinia.vuejs.org/">Pinia</a>,
     <a target="_blank" href="https://router.vuejs.org/">Vue Router</a>,
     <a target="_blank" href="https://test-utils.vuejs.org/">Vue Test Utils</a>, and
@@ -69,13 +80,18 @@ import SupportIcon from './icons/IconSupport.vue'
     resources, we suggest paying
     <a target="_blank" href="https://github.com/vuejs/awesome-vue">Awesome Vue</a>
 =======
+=======
+>>>>>>> origin/cacl
     <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
     <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
     <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
     <a href="https://github.com/vuejs/devtools" target="_blank" rel="noopener">Vue Dev Tools</a>. If
     you need more resources, we suggest paying
     <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
+<<<<<<< HEAD
 >>>>>>> c3c9485 (new installation with router and pinia)
+=======
+>>>>>>> origin/cacl
     a visit.
   </WelcomeItem>
 
@@ -87,12 +103,15 @@ import SupportIcon from './icons/IconSupport.vue'
 
     Got stuck? Ask your question on
 <<<<<<< HEAD
+<<<<<<< HEAD
     <a target="_blank" href="https://chat.vuejs.org">Vue Land</a>, our official Discord server, or
     <a target="_blank" href="https://stackoverflow.com/questions/tagged/vue.js">StackOverflow</a>.
     You should also subscribe to
     <a target="_blank" href="https://news.vuejs.org">our mailing list</a> and follow the official
     <a target="_blank" href="https://twitter.com/vuejs">@vuejs</a>
 =======
+=======
+>>>>>>> origin/cacl
     <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
     Discord server, or
     <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
@@ -101,7 +120,10 @@ import SupportIcon from './icons/IconSupport.vue'
     <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
     the official
     <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
+<<<<<<< HEAD
 >>>>>>> c3c9485 (new installation with router and pinia)
+=======
+>>>>>>> origin/cacl
     twitter account for latest news in the Vue world.
   </WelcomeItem>
 
@@ -114,9 +136,13 @@ import SupportIcon from './icons/IconSupport.vue'
     As an independent project, Vue relies on community backing for its sustainability. You can help
     us by
 <<<<<<< HEAD
+<<<<<<< HEAD
     <a target="_blank" href="https://vuejs.org/sponsor/">becoming a sponsor</a>.
 =======
     <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
 >>>>>>> c3c9485 (new installation with router and pinia)
+=======
+    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+>>>>>>> origin/cacl
   </WelcomeItem>
 </template>

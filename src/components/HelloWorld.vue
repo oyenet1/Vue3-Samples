@@ -13,12 +13,17 @@ defineProps({
     <h3>
       You’ve successfully created a project with
 <<<<<<< HEAD
+<<<<<<< HEAD
       <a target="_blank" href="https://vitejs.dev/">Vite</a> +
       <a target="_blank" href="https://vuejs.org/">Vue 3</a>.
 =======
       <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
 >>>>>>> c3c9485 (new installation with router and pinia)
+=======
+      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
+      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
+>>>>>>> origin/cacl
     </h3>
   </div>
 </template>

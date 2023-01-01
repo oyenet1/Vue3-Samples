@@ -30,9 +30,12 @@ i {
   width: 32px;
   height: 32px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> c3c9485 (new installation with router and pinia)
+=======
+>>>>>>> origin/cacl
   color: var(--color-text);
 }
 
